@@ -45,8 +45,6 @@ OPT: 맞춤형 헬스 트레이닝 서비스
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zwjddn1105)
 
-![Solved.ac Stats](http://mazandi.herokuapp.com/api?handle=zwjddn1105&theme=dark)
-
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zwjddn1105)
 
 ---
