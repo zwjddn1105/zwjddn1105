@@ -4,19 +4,27 @@
 - I’m interested in F.E.(React, Vue.js, TypeScript) & B.E.(Django, Node.js, SpringBoot)...
 - I’m currently learning Python, React, TypeScript, Next.js, Algorithm ...
 - 서울시립대학교 (2015.03 ~ 2022.08)
-- 삼성 청년 SW 아카데미 (2024.07 ~ ing)
+- 삼성 청년 SW 아카데미 (2024.07 ~ 2025.07)
 
 ---
 
 ### Project
 
-생성형 AI와 금융 데이터를 활용한 금융 상품 로보 어드바이저 서비스  
-📅 **기간:** 2024.11.18 ~ 2024.11.26  
-🔗 **GitHub Repository:** [project1](https://github.com/zwjddn1105/Deposit_Recommendation_Zip)
+ChickenStock: 주식 투자 연습을 위한 실시간 거래와 랭킹 시스템을 갖춘 모의투자 서비스  
+📅 **기간:** 2025.01.13 ~ 2025.02.21  
+🔗 **GitHub Repository:** [project1](https://github.com/zwjddn1105/chickenStock)
+
+빵긋빵긋: 베이커리 소상공인을 대상으로 한 빵 마감할인 중개서비스  
+📅 **기간:** 2025.02.24 ~ 2025.04.11  
+🔗 **GitHub Repository:** [project2](https://github.com/zwjddn1105/pjt-bbanggt)
 
 OPT: 맞춤형 헬스 트레이닝 서비스  
 📅 **기간:** 2025.01.13 ~ 2025.02.21  
-🔗 **GitHub Repository:** [project2](https://github.com/zwjddn1105/OPT)
+🔗 **GitHub Repository:** [project3](https://github.com/zwjddn1105/OPT)
+
+생성형 AI와 금융 데이터를 활용한 금융 상품 로보 어드바이저 서비스  
+📅 **기간:** 2024.11.18 ~ 2024.11.26  
+🔗 **GitHub Repository:** [project4](https://github.com/zwjddn1105/Deposit_Recommendation_Zip)
 
 ---
 
