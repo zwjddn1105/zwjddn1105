@@ -16,7 +16,7 @@ ChickenStock: 주식 투자 연습을 위한 실시간 거래와 랭킹 시스�
 
 빵긋빵긋: 베이커리 소상공인을 대상으로 한 빵 마감할인 중개서비스  
 📅 **기간:** 2025.02.24 ~ 2025.04.11  
-🔗 **GitHub Repository:** [project2](https://github.com/zwjddn1105/pjt-bbanggt)
+🔗 **GitHub Repository:** [project2](https://github.com/zwjddn1105/bbanggt)
 
 OPT: 맞춤형 헬스 트레이닝 서비스  
 📅 **기간:** 2025.01.13 ~ 2025.02.21  
