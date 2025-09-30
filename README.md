@@ -4,7 +4,7 @@
 - I’m interested in F.E.(React, Vue.js, TypeScript) & B.E.(Django, Node.js, SpringBoot)...
 - I’m currently learning Python, React, TypeScript, Next.js, Algorithm ...
 - 서울시립대학교 (2015.03 ~ 2022.08)
-- 삼성 청년 SW 아카데미 (2024.07 ~ 2025.07)
+- 삼성 청년 SW 아카데미 (2024.07 ~ 2025.06)
 
 ---
 
